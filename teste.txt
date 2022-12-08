@@ -2,3 +2,4 @@ Testando Git 2 - pull
 a
 b
 c
+d - sem comitar- vai alterar pro main.
